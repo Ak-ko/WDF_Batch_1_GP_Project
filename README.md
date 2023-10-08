@@ -1,6 +1,6 @@
 # Don't write on main branch
 
-## git pull origin main
+## git pull origin dev
 
 ## make new branch ( git checkout -b "new_branch_name" )
 
